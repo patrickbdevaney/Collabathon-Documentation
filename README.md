@@ -5,6 +5,7 @@ Signing Up for the dClimate API
 To sign up for the dClimate API, follow these steps:
 
 Visit the dClimate API registration page: https://api.dclimate.net/
+
 Fill out the required fields, including your first name, last name, email, password, country, and organization.
 After filling out the form, click on the “Register” button to create your account.
 Once your account is created, you will have unlimited access to all the free data provided by dClimate.
